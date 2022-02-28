@@ -3,8 +3,8 @@ I code python and sometimes lua
 not really the best coder, but I try fun 
 things from time to time
 
-- Currently Learning || Discord API ||
-- Currently Working on || VexTool ||
+- Currently Learning `Discord API` slowly...
+- Currently Working on `VexCompiler`
 - [dex on youtube](https://www.youtube.com/channel/UCaEg8bVgAJbVqglXbwulyWw)
 
 - Reach me on discord || <@623612991568478239> ||
