@@ -3,13 +3,9 @@ I code python and sometimes lua
 not really the best coder, but I try fun 
 things from time to time
 
-- Currently Learning `Discord API` slowly...
-- Currently Working on `VexCompiler`
+- Currently Learning `Nothing`
+- Currently Working on `RangeSelf`
 - [dex on youtube](https://www.youtube.com/channel/UCaEg8bVgAJbVqglXbwulyWw)
-
-- Reach me on discord || <@623612991568478239> ||
-<img src="https://discord.c99.nl/widget/theme-1/623612991568478239.png">
-
 
 ## stats
 
