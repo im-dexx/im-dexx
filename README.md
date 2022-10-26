@@ -1,7 +1,5 @@
 ## dex
-I code python and sometimes lua
-not really the best coder, but I try fun 
-things from time to time
+poop
 
 - Currently Learning `Nothing`
 - Currently Working on `RangeSelf`
