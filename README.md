@@ -2,8 +2,8 @@
 poop
 
 - Currently Learning `Nothing`
-- Currently Working on `RangeSelf`
-- [dex on youtube](https://www.youtube.com/channel/UCaEg8bVgAJbVqglXbwulyWw)
+- Currently Working on `Stupid Lua Things`
+- [dex on youtube](https://www.youtube.com/channel/UCih5SGBSyhvh7hIAZlx2mMg)
 
 ## stats
 
