@@ -7,8 +7,6 @@
 
 - can help **people that need help**
 
-- reach me @ **https://discord.com/invite/hPTE9522Ue**
-
 <p align="center">
 <a href="https://discord.gg/hPTE9522Ue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hPTE9522Ue" height="30" width="40" /></a>
 </p>
